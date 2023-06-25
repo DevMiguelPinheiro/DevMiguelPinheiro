@@ -1,5 +1,6 @@
 ### Olá,Seja Bem vindo! 👋
-### Me chamo Miguel, sou desenvolvedor e acadêmico de engenharia de software
+### Me chamo Miguel Pinheiro,este é o meu repositório no GitHub, onde compartilho meus projetos e código-fonte. Bem-vindo(a) e fique à vontade para explorar e contribuir!
+### Espero que goste 🤜🤛
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMiguelPinheiro&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
