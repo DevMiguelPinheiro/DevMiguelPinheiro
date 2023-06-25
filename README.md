@@ -3,8 +3,8 @@
 ### Espero que goste 🤜🤛
 <div align = "center">
   <a href="https://github.com/FlavioSantos2002">
-  <img height="134em" src="https://github-readme-stats.vercel.app/api?username=FlavioSantos2002&show_icons=true&theme=midnight&include_all_commits=true&count_private=true"/>
-  <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&layout=compact&langs_count=7&theme=midnight"/>
+  <img height="134em" src="https://github-readme-stats.vercel.app/api?username=FlavioSantos2002&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div> 
   <a href="https://www.instagram.com/miguelpinheiro.js/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
