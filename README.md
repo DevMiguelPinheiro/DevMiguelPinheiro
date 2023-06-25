@@ -1,8 +1,11 @@
 ### Olá,Seja Bem vindo! 👋
 ### Me chamo Miguel Pinheiro,este é o meu repositório no GitHub, onde compartilho meus projetos e código-fonte. Bem-vindo(a) e fique à vontade para explorar e contribuir!
 ### Espero que goste 🤜🤛
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMiguelPinheiro&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div align = "center">
+  <a href="https://github.com/FlavioSantos2002">
+  <img height="134em" src="https://github-readme-stats.vercel.app/api?username=FlavioSantos2002&show_icons=true&theme=midnight&include_all_commits=true&count_private=true"/>
+  <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&layout=compact&langs_count=7&theme=midnight"/>
+</div>
 <div> 
   <a href="https://www.instagram.com/miguelpinheiro.js/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguel-pinheiro-leite-269905184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
