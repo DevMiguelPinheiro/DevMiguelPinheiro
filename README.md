@@ -1,7 +1,7 @@
 ### Olá,Seja Bem vindo! 👋
 ### Me chamo Miguel Pinheiro,este é o meu repositório no GitHub, onde compartilho meus projetos e código-fonte. Bem-vindo(a) e fique à vontade para explorar e contribuir!
 ### Espero que goste 🤜🤛
-<div align = "center">
+<div>
   <a href="https://github.com/FlavioSantos2002">
   <img height="134em" src="https://github-readme-stats.vercel.app/api?username=FlavioSantos2002&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&layout=compact&langs_count=7&theme=midnight-purple"/>
