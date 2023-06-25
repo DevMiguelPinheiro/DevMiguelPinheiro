@@ -2,7 +2,7 @@
 ### Me chamo Miguel Pinheiro,este é o meu repositório no GitHub, onde compartilho meus projetos e código-fonte. Bem-vindo(a) e fique à vontade para explorar e contribuir!
 ### Espero que goste 🤜🤛
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMiguelPinheiro&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
   <a href="https://www.instagram.com/miguelpinheiro.js/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
