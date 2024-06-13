@@ -2,7 +2,6 @@
 ### Me chamo Miguel Pinheiro,este é o meu repositório no GitHub, onde compartilho meus projetos e código-fonte. Bem-vindo(a) e fique à vontade para explorar e contribuir!
 ### Espero que goste 🤜🤛
 <div>
-    <img height="134em" src="https://github-readme-stats.vercel.app/api?username=DevMiguelPinheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/DevMiguelPinheiro">
   <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
