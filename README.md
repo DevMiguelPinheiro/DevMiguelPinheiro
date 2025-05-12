@@ -3,7 +3,7 @@
 ### Espero que goste 🤜🤛
 <div>
   <a href="https://github.com/DevMiguelPinheiro">
-  <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&layout=compact&langs_count=7&theme=dark&hide=html,css"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&layout=compact&langs_count=7&theme=dark&hide=html,css"/>
 </div>
 
 <div style="display: inline_block"><br>
