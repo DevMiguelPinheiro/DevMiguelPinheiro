@@ -7,13 +7,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMiguelPinheiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true",height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelPinheiro&layout=compact&theme=tokyonight&hide=html,css",height="180"/>
-</div>
-
----
 🛠️ Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
